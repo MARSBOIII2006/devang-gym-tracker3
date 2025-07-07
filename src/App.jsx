@@ -1,0 +1,1 @@
+export default function App() { return <h1>🏋️ Devang's Gym App Coming Soon!</h1>; }
